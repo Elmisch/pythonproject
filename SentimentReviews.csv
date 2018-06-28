@@ -1,0 +1,9 @@
+;klantnummer;cijfer;tekst;gevoelens;subjectiviteit;categorie
+0;1;8;Ik vind dit een extreem goed product;1.0;1.0;5. zeer positief
+1;2;7;Dit apparaat werkt prima;0.7;1.0;4. positief
+2;3;3;Wat is dit een waardeloos ding, echt zonde van mijn geld!;-0.275;0.65;2. negatief
+3;4;5;Niet kopen, te laat geleverd en een zeer slechte kwaliteit;-0.37333333333333335;0.53;2. negatief
+4;5;6;Het kan wel beter;0.0;0.0;3. neutraal
+5;6;0;Lachwekkend;0.2;1.0;3. neutraal
+6;7;2;Wat was dit een verschrikkelijk product. Het werkt echt voor geen ene meter!;-0.125;0.65;3. neutraal
+7;8;2;Dit was een heel erg slecht en en teleurstellend product!;-0.75;1.0;1. zeer negatief
